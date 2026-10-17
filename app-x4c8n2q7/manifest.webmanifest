@@ -1,0 +1,28 @@
+{
+ "name": "Christmas Planner \u2013 TrueHaven Studios",
+ "short_name": "Christmas",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#F7F1EA",
+ "theme_color": "#F7F1EA",
+ "description": "Gifts, budget, checklist, wish lists and Christmas dinner in one calm planner.",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
